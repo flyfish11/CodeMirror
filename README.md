@@ -4,45 +4,34 @@
 [![NPM version](https://img.shields.io/npm/v/codemirror.svg)](https://www.npmjs.org/package/codemirror)
 [![Join the chat at https://gitter.im/codemirror/CodeMirror](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codemirror/CodeMirror)  
 
-CodeMirror is a versatile text editor implemented in JavaScript for
-the browser. It is specialized for editing code, and comes with over
-100 language modes and various addons that implement more advanced
-editing functionality. Every language comes with fully-featured code
-and syntax highlighting to help with reading and editing complex code.
+codemirror是一个在浏览器的javascript中实现的通用文本编辑器。它专门用于编辑代码，并具有100多种语言模式和实现更高级编辑功能的各种插件。每种语言都有功能齐全的代码和语法突出显示，以帮助阅读和编辑复杂的代码。
 
-A rich programming API and a CSS theming system are available for
-customizing CodeMirror to fit your application, and extending it with
-new functionality.
+丰富的编程API和CSS主题系统可用于定制代码镜像以适合您的应用程序，并使用新功能对其进行扩展。
 
-You can find more information (and the
-[manual](https://codemirror.net/doc/manual.html)) on the [project
-page](https://codemirror.net). For questions and discussion, use the
-[discussion forum](https://discuss.codemirror.net/).
+您可以在项目页面上找到更多信息（和手册）。对于问题和讨论，请使用讨论论坛。
 
-See
-[CONTRIBUTING.md](https://github.com/codemirror/CodeMirror/blob/master/CONTRIBUTING.md)
-for contributing guidelines.
+请参见contributing.md了解contributing指南。
 
-The CodeMirror community aims to be welcoming to everybody. We use the
-[Contributor Covenant
-(1.1)](http://contributor-covenant.org/version/1/1/0/) as our code of
-conduct.
+Codemirror社区的目标是欢迎所有人。我们使用贡献者契约（1.1）作为我们的行为准则。
 
 ### Installation
 
-Either get the [zip file](https://codemirror.net/codemirror.zip) with
-the latest version, or make sure you have [Node](https://nodejs.org/)
-installed and run:
+使用最新版本获取zip文件，或者确保已安装节点并运行：
 
     npm install codemirror
 
-**NOTE**: This is the source repository for the library, and not the
-distribution channel. Cloning it is not the recommended way to install
-the library, and will in fact not work unless you also run the build
-step.
+*注释：this is the源*库Library for the，and not the
+
+分布通道。克隆恩is not the Way to install建议
+
+the will not布尔图书馆工作，除非你也在寻求建立运行
+
+步。
 
 ### Quickstart
 
-To build the project, make sure you have Node.js installed (at least version 6)
-and then `npm install`. To run, just open `index.html` in your
-browser (you don't need to run a webserver). Run the tests with `npm test`.
+要构建项目，请确保已安装node.js（至少版本6）
+
+然后是“NPM install”。要运行，只需在
+
+浏览器（不需要运行Web服务器）。使用“npm test”运行测试。
